@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<img src="E:\my\web\images\bear.jpg">
+<img src="C:\Users\gkfhz\Documents\java\web\images\bear.jpg">
 
 <!---
 gj-ya/gj-ya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
